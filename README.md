@@ -5,9 +5,9 @@ Welcome to our React TypeScript project! This repository is organized with a cle
 Clone this repository:--
 ### git clone https://github.com/yahyahiwa3/React_Folder_Structure_TypeScript.git--
 Navigate to the project folder: 
-### cd React_Folder_Structure_TypeScript--
+### cd React_Folder_Structure_TypeScript
 Install dependencies:
-### npm install--
+### npm install
 Start the development server:
-### npm run dev--
+### npm run dev
 Feel free to customize, add more directories, or adjust the structure to fit your project's needs. Happy coding!

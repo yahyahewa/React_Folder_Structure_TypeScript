@@ -10,4 +10,5 @@ Install dependencies:
 ### npm install
 Start the development server:
 ### npm run dev
+
 Feel free to customize, add more directories, or adjust the structure to fit your project's needs. Happy coding!
